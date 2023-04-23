@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ренат\\Desktop\\Програмирование\\Examples\\examples001_helo_console\\examples001_helo_console.csproj",
-      "projectName": "examples001_helo_console",
-      "projectPath": "C:\\Users\\Ренат\\Desktop\\Програмирование\\Examples\\examples001_helo_console\\examples001_helo_console.csproj",
+      "projectUniqueName": "C:\\Users\\Ренат\\Desktop\\Програмирование\\Examples\\examples003_zadacha3\\examples003_zadacha3.csproj",
+      "projectName": "examples003_zadacha3",
+      "projectPath": "C:\\Users\\Ренат\\Desktop\\Програмирование\\Examples\\examples003_zadacha3\\examples003_zadacha3.csproj",
       "packagesPath": "C:\\Users\\Ренат\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ренат\\Desktop\\Програмирование\\Examples\\examples001_helo_console\\obj\\",
+      "outputPath": "C:\\Users\\Ренат\\Desktop\\Програмирование\\Examples\\examples003_zadacha3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ренат\\AppData\\Roaming\\NuGet\\NuGet.Config"
