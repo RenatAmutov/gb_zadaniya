@@ -1,0 +1,15 @@
+C:\Users\Ренат\Desktop\Програмирование\Examples\examples003_zadacha3\bin\Debug\net7.0\examples003_zadacha3.exe
+C:\Users\Ренат\Desktop\Програмирование\Examples\examples003_zadacha3\bin\Debug\net7.0\examples003_zadacha3.deps.json
+C:\Users\Ренат\Desktop\Програмирование\Examples\examples003_zadacha3\bin\Debug\net7.0\examples003_zadacha3.runtimeconfig.json
+C:\Users\Ренат\Desktop\Програмирование\Examples\examples003_zadacha3\bin\Debug\net7.0\examples003_zadacha3.dll
+C:\Users\Ренат\Desktop\Програмирование\Examples\examples003_zadacha3\bin\Debug\net7.0\examples003_zadacha3.pdb
+C:\Users\Ренат\Desktop\Програмирование\Examples\examples003_zadacha3\obj\Debug\net7.0\examples003_zadacha3.csproj.AssemblyReference.cache
+C:\Users\Ренат\Desktop\Програмирование\Examples\examples003_zadacha3\obj\Debug\net7.0\examples003_zadacha3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ренат\Desktop\Програмирование\Examples\examples003_zadacha3\obj\Debug\net7.0\examples003_zadacha3.AssemblyInfoInputs.cache
+C:\Users\Ренат\Desktop\Програмирование\Examples\examples003_zadacha3\obj\Debug\net7.0\examples003_zadacha3.AssemblyInfo.cs
+C:\Users\Ренат\Desktop\Програмирование\Examples\examples003_zadacha3\obj\Debug\net7.0\examples003_zadacha3.csproj.CoreCompileInputs.cache
+C:\Users\Ренат\Desktop\Програмирование\Examples\examples003_zadacha3\obj\Debug\net7.0\examples003_zadacha3.dll
+C:\Users\Ренат\Desktop\Програмирование\Examples\examples003_zadacha3\obj\Debug\net7.0\refint\examples003_zadacha3.dll
+C:\Users\Ренат\Desktop\Програмирование\Examples\examples003_zadacha3\obj\Debug\net7.0\examples003_zadacha3.pdb
+C:\Users\Ренат\Desktop\Програмирование\Examples\examples003_zadacha3\obj\Debug\net7.0\examples003_zadacha3.genruntimeconfig.cache
+C:\Users\Ренат\Desktop\Програмирование\Examples\examples003_zadacha3\obj\Debug\net7.0\ref\examples003_zadacha3.dll
