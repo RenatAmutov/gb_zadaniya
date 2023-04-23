@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "examples001_helo_console/1.0.0": {
+        "runtime": {
+          "examples001_helo_console.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "examples001_helo_console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

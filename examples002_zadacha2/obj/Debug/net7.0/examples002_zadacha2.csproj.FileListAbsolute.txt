@@ -1,0 +1,15 @@
+C:\Users\Ренат\Desktop\Програмирование\Examples\examples002_zadacha2\obj\Debug\net7.0\examples002_zadacha2.csproj.AssemblyReference.cache
+C:\Users\Ренат\Desktop\Програмирование\Examples\examples002_zadacha2\obj\Debug\net7.0\examples002_zadacha2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ренат\Desktop\Програмирование\Examples\examples002_zadacha2\obj\Debug\net7.0\examples002_zadacha2.AssemblyInfoInputs.cache
+C:\Users\Ренат\Desktop\Програмирование\Examples\examples002_zadacha2\obj\Debug\net7.0\examples002_zadacha2.AssemblyInfo.cs
+C:\Users\Ренат\Desktop\Програмирование\Examples\examples002_zadacha2\obj\Debug\net7.0\examples002_zadacha2.csproj.CoreCompileInputs.cache
+C:\Users\Ренат\Desktop\Програмирование\Examples\examples002_zadacha2\bin\Debug\net7.0\examples002_zadacha2.exe
+C:\Users\Ренат\Desktop\Програмирование\Examples\examples002_zadacha2\bin\Debug\net7.0\examples002_zadacha2.deps.json
+C:\Users\Ренат\Desktop\Програмирование\Examples\examples002_zadacha2\bin\Debug\net7.0\examples002_zadacha2.runtimeconfig.json
+C:\Users\Ренат\Desktop\Програмирование\Examples\examples002_zadacha2\bin\Debug\net7.0\examples002_zadacha2.dll
+C:\Users\Ренат\Desktop\Програмирование\Examples\examples002_zadacha2\bin\Debug\net7.0\examples002_zadacha2.pdb
+C:\Users\Ренат\Desktop\Програмирование\Examples\examples002_zadacha2\obj\Debug\net7.0\examples002_zadacha2.dll
+C:\Users\Ренат\Desktop\Програмирование\Examples\examples002_zadacha2\obj\Debug\net7.0\refint\examples002_zadacha2.dll
+C:\Users\Ренат\Desktop\Програмирование\Examples\examples002_zadacha2\obj\Debug\net7.0\examples002_zadacha2.pdb
+C:\Users\Ренат\Desktop\Програмирование\Examples\examples002_zadacha2\obj\Debug\net7.0\examples002_zadacha2.genruntimeconfig.cache
+C:\Users\Ренат\Desktop\Програмирование\Examples\examples002_zadacha2\obj\Debug\net7.0\ref\examples002_zadacha2.dll
